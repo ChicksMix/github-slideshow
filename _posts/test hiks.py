@@ -1,6 +1,3 @@
----
-layout: slide
----
 #Carter Hicks
 #10/6/17
 #test
